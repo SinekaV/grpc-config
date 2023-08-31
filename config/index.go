@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"time"
-     "grpcmodel/constants"
+	"github.com/SinekaV/grpc-constants/constants"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
